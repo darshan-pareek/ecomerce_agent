@@ -34,6 +34,13 @@ agentic-ai-assignment/
 
 ---
 
+## Project Scrrenshots
+![image](Screenshots/Screenshot 2026-06-27 224329.png)
+![image](Screenshots/Screenshot 2026-06-27 224348.png)
+![image](Screenshots/Screenshot 2026-06-27 224406.png)
+![image](Screenshots/Screenshot 2026-06-27 224432.png)
+![image](Screenshots/Screenshot 2026-06-27 224446.png)
+![image](Screenshots/Screenshot 2026-06-27 224500.png)
 ## Setup & Running the Code
 
 ### 1. Prerequisites
